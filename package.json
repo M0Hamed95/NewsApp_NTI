@@ -1,0 +1,19 @@
+{
+  "name": "newsapp_nti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohamed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "git": "^0.1.5",
+    "hbs": "^4.2.0",
+    "mongoo": "^0.3.5",
+    "robo": "^0.3.0"
+  }
+}
